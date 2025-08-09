@@ -32,7 +32,9 @@ One of my first React.js projects. Based off a tutotrial. The Guess words are st
 ## 🛠 Tech Stack
 
 **Frontend:** React.js, HTML, CSS  
+
 **Backend:** None
+
 **Database:** None
 
 ---
